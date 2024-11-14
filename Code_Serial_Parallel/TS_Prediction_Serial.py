@@ -116,21 +116,21 @@ print(f"Test MSE: {test_mse:.4f}")
 
 plt.figure(figsize=(10,6))
 # Plot the actual training data
-plt.plot(dates_train,y_train_original, color='blue', label='Actual Close Prices')
+plt.plot(dates_train,y_train_original, color='blue', label='Actual Close Index')
 
 # Plot the predicted training data
-plt.plot(dates_train,y_train_predict_original, color='green', label='Predicted Train Close Prices')
+plt.plot(dates_train,y_train_predict_original, color='green', label='Predicted Train Close Index')
 
 # Plot the actual test data - immediately following the train
 plt.plot(dates_test, y_test_original, color='blue')
 
 # Plot the predicted test data - immediately following the train
-plt.plot(dates_test, y_test_predict_original, color='red', label='Predicted Test Close Prices')
+plt.plot(dates_test, y_test_predict_original, color='red', label='Predicted Test Close Index')
 
-plt.title('Actual vs Predicted Close Prices')
+plt.title('Actual vs Predicted Close S&P Index')
 plt.xlabel('Date')
 # plt.x_ticks(dates = dfOriginal['Date'])
-plt.ylabel('Close Price')
+plt.ylabel('Close Index')
 plt.legend()
 plt.savefig('plots/Serial_'+useModel+'_ActualVsPredicted.png')
 plt.close()

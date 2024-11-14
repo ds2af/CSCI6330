@@ -170,13 +170,13 @@ if rank == 0:
     dates_test = dates[len(y_train) + time_step_predict:]
 
     plt.figure(figsize=(10, 6))
-    plt.plot(dates_train, y_train_original, color='blue', label='Actual Close Prices')
-    plt.plot(dates_train, y_train_predict_original, color='green', label='Predicted Train Close Prices')
+    plt.plot(dates_train, y_train_original, color='blue', label='Actual Close Index')
+    plt.plot(dates_train, y_train_predict_original, color='green', label='Predicted Train Close Index')
     plt.plot(dates_test, y_test_original, color='blue')
-    plt.plot(dates_test, y_test_predict_original, color='red', label='Predicted Test Close Prices')
-    plt.title('Actual vs Predicted Close Prices')
+    plt.plot(dates_test, y_test_predict_original, color='red', label='Predicted Test Close Index')
+    plt.title('Actual vs Predicted Close S&P Index')
     plt.xlabel('Date')
-    plt.ylabel('Close Price')
+    plt.ylabel('Close Index')
     plt.legend()
     plt.savefig(f"plots/MPI_{size}_{useModel}_ActualVsPredicted.png")
     plt.close()
