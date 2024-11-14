@@ -1,0 +1,1007 @@
+10/10 - 3s - 277ms/step - loss: 0.4073
+10/10 - 0s - 29ms/step - loss: 0.1333
+10/10 - 0s - 27ms/step - loss: 0.0546
+10/10 - 0s - 21ms/step - loss: 0.0398
+9/9 - 1s - 70ms/step - loss: 0.0399 - val_loss: 0.0073
+10/10 - 0s - 33ms/step - loss: 1.2011
+10/10 - 0s - 34ms/step - loss: 0.8360
+10/10 - 0s - 25ms/step - loss: 0.2051
+10/10 - 0s - 31ms/step - loss: 0.0737
+9/9 - 0s - 42ms/step - loss: 0.0325 - val_loss: 0.0013
+10/10 - 0s - 31ms/step - loss: 0.1540
+10/10 - 0s - 27ms/step - loss: 0.0399
+10/10 - 0s - 30ms/step - loss: 0.0169
+10/10 - 0s - 26ms/step - loss: 0.0247
+9/9 - 0s - 41ms/step - loss: 0.0206 - val_loss: 0.0066
+10/10 - 0s - 29ms/step - loss: 0.0229
+10/10 - 0s - 33ms/step - loss: 0.0203
+10/10 - 0s - 20ms/step - loss: 0.0171
+10/10 - 0s - 26ms/step - loss: 0.0177
+9/9 - 0s - 32ms/step - loss: 0.0167 - val_loss: 0.0040
+10/10 - 0s - 25ms/step - loss: 0.0192
+10/10 - 0s - 37ms/step - loss: 0.0186
+10/10 - 0s - 19ms/step - loss: 0.0195
+10/10 - 0s - 26ms/step - loss: 0.0238
+9/9 - 0s - 43ms/step - loss: 0.0157 - val_loss: 0.0019
+10/10 - 0s - 33ms/step - loss: 0.0252
+10/10 - 0s - 31ms/step - loss: 0.0170
+10/10 - 0s - 22ms/step - loss: 0.0154
+10/10 - 0s - 25ms/step - loss: 0.0165
+9/9 - 0s - 36ms/step - loss: 0.0217 - val_loss: 0.0087
+10/10 - 0s - 28ms/step - loss: 0.0234
+10/10 - 0s - 19ms/step - loss: 0.0167
+10/10 - 0s - 26ms/step - loss: 0.0175
+10/10 - 0s - 23ms/step - loss: 0.0166
+9/9 - 0s - 35ms/step - loss: 0.0149 - val_loss: 0.0041
+10/10 - 0s - 33ms/step - loss: 0.0227
+10/10 - 0s - 34ms/step - loss: 0.0183
+10/10 - 0s - 27ms/step - loss: 0.0155
+10/10 - 0s - 23ms/step - loss: 0.0186
+9/9 - 0s - 37ms/step - loss: 0.0173 - val_loss: 0.0022
+10/10 - 0s - 22ms/step - loss: 0.0208
+10/10 - 0s - 31ms/step - loss: 0.0155
+10/10 - 0s - 28ms/step - loss: 0.0139
+10/10 - 0s - 26ms/step - loss: 0.0171
+9/9 - 0s - 30ms/step - loss: 0.0138 - val_loss: 0.0017
+10/10 - 0s - 27ms/step - loss: 0.0210
+10/10 - 0s - 23ms/step - loss: 0.0152
+10/10 - 0s - 23ms/step - loss: 0.0200
+10/10 - 0s - 24ms/step - loss: 0.0143
+9/9 - 0s - 34ms/step - loss: 0.0153 - val_loss: 0.0051
+10/10 - 0s - 24ms/step - loss: 0.0191
+10/10 - 0s - 30ms/step - loss: 0.0124
+10/10 - 0s - 30ms/step - loss: 0.0187
+10/10 - 0s - 20ms/step - loss: 0.0142
+9/9 - 0s - 36ms/step - loss: 0.0115 - val_loss: 0.0019
+10/10 - 0s - 22ms/step - loss: 0.0191
+10/10 - 0s - 24ms/step - loss: 0.0119
+10/10 - 0s - 21ms/step - loss: 0.0114
+10/10 - 0s - 20ms/step - loss: 0.0115
+9/9 - 0s - 38ms/step - loss: 0.0147 - val_loss: 0.0033
+10/10 - 0s - 32ms/step - loss: 0.0194
+10/10 - 0s - 28ms/step - loss: 0.0146
+10/10 - 0s - 46ms/step - loss: 0.0119
+10/10 - 0s - 20ms/step - loss: 0.0171
+9/9 - 0s - 32ms/step - loss: 0.0146 - val_loss: 0.0020
+10/10 - 0s - 25ms/step - loss: 0.0180
+10/10 - 0s - 21ms/step - loss: 0.0119
+10/10 - 0s - 33ms/step - loss: 0.0145
+10/10 - 0s - 28ms/step - loss: 0.0148
+9/9 - 0s - 37ms/step - loss: 0.0120 - val_loss: 0.0021
+10/10 - 0s - 34ms/step - loss: 0.0151
+10/10 - 0s - 32ms/step - loss: 0.0124
+10/10 - 0s - 25ms/step - loss: 0.0161
+10/10 - 0s - 24ms/step - loss: 0.0142
+9/9 - 0s - 43ms/step - loss: 0.0141 - val_loss: 0.0033
+10/10 - 0s - 26ms/step - loss: 0.0163
+10/10 - 0s - 32ms/step - loss: 0.0158
+10/10 - 0s - 25ms/step - loss: 0.0168
+10/10 - 0s - 38ms/step - loss: 0.0127
+9/9 - 0s - 40ms/step - loss: 0.0144 - val_loss: 0.0014
+10/10 - 0s - 36ms/step - loss: 0.0167
+10/10 - 0s - 27ms/step - loss: 0.0121
+10/10 - 0s - 28ms/step - loss: 0.0139
+10/10 - 0s - 19ms/step - loss: 0.0125
+9/9 - 0s - 27ms/step - loss: 0.0117 - val_loss: 0.0021
+10/10 - 0s - 19ms/step - loss: 0.0181
+10/10 - 0s - 27ms/step - loss: 0.0133
+10/10 - 0s - 29ms/step - loss: 0.0118
+10/10 - 0s - 22ms/step - loss: 0.0157
+9/9 - 0s - 34ms/step - loss: 0.0132 - val_loss: 0.0017
+10/10 - 0s - 29ms/step - loss: 0.0160
+10/10 - 0s - 27ms/step - loss: 0.0126
+10/10 - 0s - 33ms/step - loss: 0.0154
+10/10 - 0s - 22ms/step - loss: 0.0124
+9/9 - 0s - 33ms/step - loss: 0.0128 - val_loss: 0.0023
+10/10 - 0s - 29ms/step - loss: 0.0170
+10/10 - 0s - 34ms/step - loss: 0.0155
+10/10 - 0s - 22ms/step - loss: 0.0135
+10/10 - 0s - 34ms/step - loss: 0.0151
+9/9 - 0s - 41ms/step - loss: 0.0116 - val_loss: 0.0018
+10/10 - 0s - 31ms/step - loss: 0.0135
+10/10 - 0s - 35ms/step - loss: 0.0131
+10/10 - 0s - 32ms/step - loss: 0.0136
+10/10 - 0s - 35ms/step - loss: 0.0136
+9/9 - 0s - 29ms/step - loss: 0.0146 - val_loss: 0.0021
+10/10 - 0s - 31ms/step - loss: 0.0161
+10/10 - 0s - 21ms/step - loss: 0.0142
+10/10 - 0s - 22ms/step - loss: 0.0143
+10/10 - 0s - 18ms/step - loss: 0.0128
+9/9 - 0s - 41ms/step - loss: 0.0120 - val_loss: 0.0020
+10/10 - 0s - 25ms/step - loss: 0.0131
+10/10 - 0s - 32ms/step - loss: 0.0107
+10/10 - 0s - 22ms/step - loss: 0.0122
+10/10 - 0s - 24ms/step - loss: 0.0107
+9/9 - 0s - 49ms/step - loss: 0.0146 - val_loss: 0.0012
+10/10 - 0s - 27ms/step - loss: 0.0145
+10/10 - 0s - 25ms/step - loss: 0.0146
+10/10 - 0s - 25ms/step - loss: 0.0134
+10/10 - 0s - 33ms/step - loss: 0.0134
+9/9 - 0s - 27ms/step - loss: 0.0130 - val_loss: 0.0021
+10/10 - 0s - 31ms/step - loss: 0.0125
+10/10 - 0s - 25ms/step - loss: 0.0132
+10/10 - 0s - 19ms/step - loss: 0.0113
+10/10 - 0s - 21ms/step - loss: 0.0098
+9/9 - 0s - 41ms/step - loss: 0.0131 - val_loss: 0.0012
+10/10 - 0s - 29ms/step - loss: 0.0169
+10/10 - 0s - 27ms/step - loss: 0.0137
+10/10 - 0s - 25ms/step - loss: 0.0118
+10/10 - 0s - 19ms/step - loss: 0.0107
+9/9 - 0s - 25ms/step - loss: 0.0140 - val_loss: 0.0018
+10/10 - 0s - 31ms/step - loss: 0.0142
+10/10 - 0s - 29ms/step - loss: 0.0081
+10/10 - 0s - 23ms/step - loss: 0.0129
+10/10 - 0s - 16ms/step - loss: 0.0100
+9/9 - 0s - 36ms/step - loss: 0.0115 - val_loss: 0.0021
+10/10 - 0s - 15ms/step - loss: 0.0147
+10/10 - 0s - 25ms/step - loss: 0.0169
+10/10 - 0s - 27ms/step - loss: 0.0104
+10/10 - 0s - 24ms/step - loss: 0.0113
+9/9 - 0s - 32ms/step - loss: 0.0105 - val_loss: 0.0011
+10/10 - 0s - 40ms/step - loss: 0.0129
+10/10 - 0s - 21ms/step - loss: 0.0126
+10/10 - 0s - 40ms/step - loss: 0.0128
+10/10 - 0s - 37ms/step - loss: 0.0114
+9/9 - 0s - 31ms/step - loss: 0.0122 - val_loss: 0.0011
+10/10 - 0s - 30ms/step - loss: 0.0151
+10/10 - 0s - 28ms/step - loss: 0.0096
+10/10 - 0s - 25ms/step - loss: 0.0152
+10/10 - 0s - 20ms/step - loss: 0.0121
+9/9 - 0s - 29ms/step - loss: 0.0098 - val_loss: 0.0010
+10/10 - 0s - 22ms/step - loss: 0.0136
+10/10 - 0s - 31ms/step - loss: 0.0092
+10/10 - 0s - 18ms/step - loss: 0.0122
+10/10 - 0s - 15ms/step - loss: 0.0126
+9/9 - 0s - 27ms/step - loss: 0.0120 - val_loss: 0.0020
+10/10 - 0s - 22ms/step - loss: 0.0129
+10/10 - 0s - 22ms/step - loss: 0.0088
+10/10 - 0s - 22ms/step - loss: 0.0101
+10/10 - 0s - 16ms/step - loss: 0.0131
+9/9 - 0s - 30ms/step - loss: 0.0119 - val_loss: 0.0016
+10/10 - 0s - 17ms/step - loss: 0.0127
+10/10 - 0s - 17ms/step - loss: 0.0111
+10/10 - 0s - 22ms/step - loss: 0.0114
+10/10 - 0s - 28ms/step - loss: 0.0122
+9/9 - 0s - 28ms/step - loss: 0.0131 - val_loss: 0.0011
+10/10 - 0s - 31ms/step - loss: 0.0152
+10/10 - 0s - 18ms/step - loss: 0.0137
+10/10 - 0s - 20ms/step - loss: 0.0131
+10/10 - 0s - 34ms/step - loss: 0.0118
+9/9 - 0s - 30ms/step - loss: 0.0101 - val_loss: 9.7733e-04
+10/10 - 0s - 24ms/step - loss: 0.0112
+10/10 - 0s - 20ms/step - loss: 0.0107
+10/10 - 0s - 32ms/step - loss: 0.0104
+10/10 - 0s - 18ms/step - loss: 0.0123
+9/9 - 0s - 24ms/step - loss: 0.0121 - val_loss: 0.0013
+10/10 - 0s - 28ms/step - loss: 0.0135
+10/10 - 0s - 26ms/step - loss: 0.0117
+10/10 - 0s - 20ms/step - loss: 0.0131
+10/10 - 0s - 24ms/step - loss: 0.0102
+9/9 - 0s - 35ms/step - loss: 0.0106 - val_loss: 0.0014
+10/10 - 0s - 29ms/step - loss: 0.0144
+10/10 - 0s - 17ms/step - loss: 0.0113
+10/10 - 0s - 28ms/step - loss: 0.0094
+10/10 - 0s - 25ms/step - loss: 0.0127
+9/9 - 0s - 25ms/step - loss: 0.0111 - val_loss: 0.0012
+10/10 - 0s - 19ms/step - loss: 0.0125
+10/10 - 0s - 25ms/step - loss: 0.0124
+10/10 - 0s - 24ms/step - loss: 0.0099
+10/10 - 0s - 20ms/step - loss: 0.0104
+9/9 - 0s - 19ms/step - loss: 0.0105 - val_loss: 0.0021
+10/10 - 0s - 18ms/step - loss: 0.0130
+10/10 - 0s - 16ms/step - loss: 0.0098
+10/10 - 0s - 25ms/step - loss: 0.0113
+10/10 - 0s - 16ms/step - loss: 0.0118
+9/9 - 0s - 21ms/step - loss: 0.0120 - val_loss: 0.0021
+10/10 - 0s - 17ms/step - loss: 0.0128
+10/10 - 0s - 16ms/step - loss: 0.0113
+10/10 - 0s - 13ms/step - loss: 0.0124
+10/10 - 0s - 12ms/step - loss: 0.0099
+9/9 - 0s - 20ms/step - loss: 0.0130 - val_loss: 0.0018
+10/10 - 0s - 14ms/step - loss: 0.0115
+10/10 - 0s - 14ms/step - loss: 0.0105
+10/10 - 0s - 23ms/step - loss: 0.0127
+10/10 - 0s - 24ms/step - loss: 0.0100
+9/9 - 0s - 23ms/step - loss: 0.0095 - val_loss: 0.0014
+10/10 - 0s - 12ms/step - loss: 0.0114
+10/10 - 0s - 17ms/step - loss: 0.0114
+10/10 - 0s - 23ms/step - loss: 0.0110
+10/10 - 0s - 18ms/step - loss: 0.0132
+9/9 - 0s - 22ms/step - loss: 0.0101 - val_loss: 9.2842e-04
+10/10 - 0s - 16ms/step - loss: 0.0095
+10/10 - 0s - 25ms/step - loss: 0.0103
+10/10 - 0s - 23ms/step - loss: 0.0087
+10/10 - 0s - 23ms/step - loss: 0.0087
+9/9 - 0s - 28ms/step - loss: 0.0116 - val_loss: 0.0024
+10/10 - 0s - 24ms/step - loss: 0.0105
+10/10 - 0s - 21ms/step - loss: 0.0097
+10/10 - 0s - 16ms/step - loss: 0.0103
+10/10 - 0s - 16ms/step - loss: 0.0112
+9/9 - 0s - 27ms/step - loss: 0.0114 - val_loss: 9.4697e-04
+10/10 - 0s - 21ms/step - loss: 0.0098
+10/10 - 0s - 15ms/step - loss: 0.0106
+10/10 - 0s - 26ms/step - loss: 0.0094
+10/10 - 0s - 26ms/step - loss: 0.0093
+9/9 - 0s - 28ms/step - loss: 0.0137 - val_loss: 0.0013
+10/10 - 1s - 51ms/step - loss: 0.0128
+10/10 - 0s - 31ms/step - loss: 0.0104
+10/10 - 0s - 21ms/step - loss: 0.0087
+10/10 - 0s - 22ms/step - loss: 0.0081
+9/9 - 0s - 34ms/step - loss: 0.0120 - val_loss: 0.0014
+10/10 - 0s - 38ms/step - loss: 0.0124
+10/10 - 0s - 22ms/step - loss: 0.0124
+10/10 - 0s - 12ms/step - loss: 0.0119
+10/10 - 0s - 31ms/step - loss: 0.0114
+9/9 - 0s - 23ms/step - loss: 0.0105 - val_loss: 0.0026
+10/10 - 0s - 22ms/step - loss: 0.0104
+10/10 - 0s - 30ms/step - loss: 0.0085
+10/10 - 0s - 16ms/step - loss: 0.0117
+10/10 - 0s - 18ms/step - loss: 0.0092
+9/9 - 0s - 29ms/step - loss: 0.0118 - val_loss: 0.0025
+10/10 - 0s - 17ms/step - loss: 0.0101
+10/10 - 0s - 19ms/step - loss: 0.0115
+10/10 - 0s - 18ms/step - loss: 0.0100
+10/10 - 0s - 14ms/step - loss: 0.0103
+9/9 - 0s - 29ms/step - loss: 0.0115 - val_loss: 8.3287e-04
+10/10 - 0s - 19ms/step - loss: 0.0115
+10/10 - 0s - 19ms/step - loss: 0.0092
+10/10 - 0s - 12ms/step - loss: 0.0114
+10/10 - 0s - 17ms/step - loss: 0.0095
+9/9 - 0s - 34ms/step - loss: 0.0103 - val_loss: 0.0012
+10/10 - 0s - 19ms/step - loss: 0.0113
+10/10 - 0s - 19ms/step - loss: 0.0105
+10/10 - 0s - 20ms/step - loss: 0.0128
+10/10 - 0s - 13ms/step - loss: 0.0101
+9/9 - 0s - 29ms/step - loss: 0.0093 - val_loss: 0.0011
+10/10 - 0s - 17ms/step - loss: 0.0122
+10/10 - 0s - 19ms/step - loss: 0.0107
+10/10 - 0s - 23ms/step - loss: 0.0098
+10/10 - 0s - 19ms/step - loss: 0.0105
+9/9 - 0s - 28ms/step - loss: 0.0097 - val_loss: 8.9700e-04
+10/10 - 0s - 17ms/step - loss: 0.0088
+10/10 - 0s - 25ms/step - loss: 0.0077
+10/10 - 0s - 18ms/step - loss: 0.0096
+10/10 - 0s - 22ms/step - loss: 0.0102
+9/9 - 0s - 28ms/step - loss: 0.0108 - val_loss: 9.6690e-04
+10/10 - 0s - 15ms/step - loss: 0.0125
+10/10 - 0s - 16ms/step - loss: 0.0085
+10/10 - 0s - 19ms/step - loss: 0.0086
+10/10 - 0s - 21ms/step - loss: 0.0091
+9/9 - 0s - 42ms/step - loss: 0.0118 - val_loss: 8.8085e-04
+10/10 - 0s - 21ms/step - loss: 0.0075
+10/10 - 0s - 28ms/step - loss: 0.0111
+10/10 - 0s - 21ms/step - loss: 0.0088
+10/10 - 0s - 19ms/step - loss: 0.0099
+9/9 - 0s - 30ms/step - loss: 0.0110 - val_loss: 8.2931e-04
+10/10 - 0s - 23ms/step - loss: 0.0102
+10/10 - 0s - 14ms/step - loss: 0.0081
+10/10 - 0s - 21ms/step - loss: 0.0097
+10/10 - 0s - 19ms/step - loss: 0.0120
+9/9 - 0s - 29ms/step - loss: 0.0089 - val_loss: 7.8269e-04
+10/10 - 0s - 26ms/step - loss: 0.0081
+10/10 - 0s - 27ms/step - loss: 0.0103
+10/10 - 0s - 21ms/step - loss: 0.0099
+10/10 - 0s - 21ms/step - loss: 0.0121
+9/9 - 0s - 31ms/step - loss: 0.0124 - val_loss: 0.0010
+10/10 - 0s - 22ms/step - loss: 0.0108
+10/10 - 0s - 21ms/step - loss: 0.0113
+10/10 - 0s - 23ms/step - loss: 0.0091
+10/10 - 0s - 23ms/step - loss: 0.0097
+9/9 - 0s - 27ms/step - loss: 0.0086 - val_loss: 8.5917e-04
+10/10 - 0s - 21ms/step - loss: 0.0104
+10/10 - 0s - 23ms/step - loss: 0.0102
+10/10 - 0s - 24ms/step - loss: 0.0143
+10/10 - 0s - 25ms/step - loss: 0.0126
+9/9 - 0s - 32ms/step - loss: 0.0111 - val_loss: 9.5675e-04
+10/10 - 0s - 20ms/step - loss: 0.0097
+10/10 - 0s - 17ms/step - loss: 0.0104
+10/10 - 0s - 35ms/step - loss: 0.0120
+10/10 - 0s - 25ms/step - loss: 0.0101
+9/9 - 0s - 35ms/step - loss: 0.0108 - val_loss: 9.8532e-04
+10/10 - 0s - 39ms/step - loss: 0.0106
+10/10 - 0s - 23ms/step - loss: 0.0099
+10/10 - 0s - 23ms/step - loss: 0.0105
+10/10 - 0s - 19ms/step - loss: 0.0081
+9/9 - 0s - 22ms/step - loss: 0.0098 - val_loss: 9.8395e-04
+10/10 - 0s - 17ms/step - loss: 0.0105
+10/10 - 0s - 29ms/step - loss: 0.0088
+10/10 - 0s - 22ms/step - loss: 0.0105
+10/10 - 0s - 20ms/step - loss: 0.0110
+9/9 - 0s - 31ms/step - loss: 0.0090 - val_loss: 7.9672e-04
+10/10 - 0s - 29ms/step - loss: 0.0111
+10/10 - 0s - 30ms/step - loss: 0.0097
+10/10 - 0s - 24ms/step - loss: 0.0115
+10/10 - 0s - 19ms/step - loss: 0.0104
+9/9 - 0s - 32ms/step - loss: 0.0124 - val_loss: 0.0015
+10/10 - 0s - 27ms/step - loss: 0.0108
+10/10 - 0s - 20ms/step - loss: 0.0099
+10/10 - 0s - 20ms/step - loss: 0.0095
+10/10 - 0s - 20ms/step - loss: 0.0121
+9/9 - 0s - 31ms/step - loss: 0.0108 - val_loss: 0.0018
+10/10 - 0s - 32ms/step - loss: 0.0108
+10/10 - 0s - 21ms/step - loss: 0.0104
+10/10 - 0s - 20ms/step - loss: 0.0097
+10/10 - 0s - 15ms/step - loss: 0.0089
+9/9 - 0s - 27ms/step - loss: 0.0117 - val_loss: 8.4146e-04
+10/10 - 0s - 24ms/step - loss: 0.0120
+10/10 - 0s - 30ms/step - loss: 0.0112
+10/10 - 0s - 20ms/step - loss: 0.0121
+10/10 - 0s - 22ms/step - loss: 0.0094
+9/9 - 0s - 33ms/step - loss: 0.0113 - val_loss: 0.0010
+10/10 - 0s - 18ms/step - loss: 0.0101
+10/10 - 0s - 23ms/step - loss: 0.0090
+10/10 - 0s - 20ms/step - loss: 0.0094
+10/10 - 0s - 24ms/step - loss: 0.0111
+9/9 - 0s - 34ms/step - loss: 0.0071 - val_loss: 8.4913e-04
+10/10 - 0s - 22ms/step - loss: 0.0120
+10/10 - 0s - 28ms/step - loss: 0.0112
+10/10 - 0s - 22ms/step - loss: 0.0097
+10/10 - 0s - 20ms/step - loss: 0.0086
+9/9 - 0s - 33ms/step - loss: 0.0099 - val_loss: 0.0012
+10/10 - 0s - 23ms/step - loss: 0.0087
+10/10 - 0s - 19ms/step - loss: 0.0107
+10/10 - 0s - 23ms/step - loss: 0.0122
+10/10 - 0s - 22ms/step - loss: 0.0092
+9/9 - 0s - 28ms/step - loss: 0.0101 - val_loss: 0.0010
+10/10 - 0s - 14ms/step - loss: 0.0105
+10/10 - 0s - 40ms/step - loss: 0.0082
+10/10 - 0s - 20ms/step - loss: 0.0106
+10/10 - 0s - 25ms/step - loss: 0.0095
+9/9 - 0s - 30ms/step - loss: 0.0109 - val_loss: 8.9770e-04
+10/10 - 0s - 24ms/step - loss: 0.0102
+10/10 - 0s - 21ms/step - loss: 0.0079
+10/10 - 0s - 18ms/step - loss: 0.0101
+10/10 - 0s - 20ms/step - loss: 0.0106
+9/9 - 0s - 30ms/step - loss: 0.0103 - val_loss: 0.0021
+10/10 - 0s - 19ms/step - loss: 0.0088
+10/10 - 0s - 22ms/step - loss: 0.0106
+10/10 - 0s - 18ms/step - loss: 0.0091
+10/10 - 0s - 17ms/step - loss: 0.0101
+9/9 - 0s - 30ms/step - loss: 0.0105 - val_loss: 0.0011
+10/10 - 0s - 17ms/step - loss: 0.0088
+10/10 - 0s - 17ms/step - loss: 0.0087
+10/10 - 0s - 20ms/step - loss: 0.0130
+10/10 - 0s - 16ms/step - loss: 0.0117
+9/9 - 0s - 33ms/step - loss: 0.0107 - val_loss: 9.6157e-04
+10/10 - 0s - 26ms/step - loss: 0.0100
+10/10 - 0s - 23ms/step - loss: 0.0099
+10/10 - 0s - 19ms/step - loss: 0.0090
+10/10 - 0s - 19ms/step - loss: 0.0090
+9/9 - 0s - 28ms/step - loss: 0.0115 - val_loss: 7.4949e-04
+10/10 - 0s - 27ms/step - loss: 0.0085
+10/10 - 0s - 16ms/step - loss: 0.0099
+10/10 - 0s - 17ms/step - loss: 0.0102
+10/10 - 0s - 20ms/step - loss: 0.0085
+9/9 - 0s - 28ms/step - loss: 0.0104 - val_loss: 8.7747e-04
+10/10 - 0s - 17ms/step - loss: 0.0094
+10/10 - 0s - 14ms/step - loss: 0.0093
+10/10 - 0s - 21ms/step - loss: 0.0114
+10/10 - 0s - 18ms/step - loss: 0.0089
+9/9 - 0s - 26ms/step - loss: 0.0098 - val_loss: 0.0011
+10/10 - 0s - 15ms/step - loss: 0.0074
+10/10 - 0s - 16ms/step - loss: 0.0101
+10/10 - 0s - 23ms/step - loss: 0.0101
+10/10 - 0s - 11ms/step - loss: 0.0121
+9/9 - 0s - 17ms/step - loss: 0.0110 - val_loss: 9.3388e-04
+10/10 - 0s - 18ms/step - loss: 0.0074
+10/10 - 0s - 14ms/step - loss: 0.0091
+10/10 - 0s - 17ms/step - loss: 0.0081
+10/10 - 0s - 13ms/step - loss: 0.0083
+9/9 - 0s - 30ms/step - loss: 0.0097 - val_loss: 7.4383e-04
+10/10 - 0s - 20ms/step - loss: 0.0074
+10/10 - 0s - 15ms/step - loss: 0.0086
+10/10 - 0s - 12ms/step - loss: 0.0088
+10/10 - 0s - 12ms/step - loss: 0.0112
+9/9 - 0s - 22ms/step - loss: 0.0110 - val_loss: 0.0021
+10/10 - 0s - 18ms/step - loss: 0.0093
+10/10 - 0s - 14ms/step - loss: 0.0081
+10/10 - 0s - 20ms/step - loss: 0.0112
+10/10 - 0s - 20ms/step - loss: 0.0112
+9/9 - 0s - 33ms/step - loss: 0.0113 - val_loss: 0.0024
+10/10 - 0s - 11ms/step - loss: 0.0085
+10/10 - 0s - 20ms/step - loss: 0.0102
+10/10 - 0s - 18ms/step - loss: 0.0100
+10/10 - 0s - 17ms/step - loss: 0.0103
+9/9 - 0s - 19ms/step - loss: 0.0112 - val_loss: 9.9135e-04
+10/10 - 0s - 17ms/step - loss: 0.0088
+10/10 - 0s - 12ms/step - loss: 0.0095
+10/10 - 0s - 19ms/step - loss: 0.0093
+10/10 - 0s - 17ms/step - loss: 0.0090
+9/9 - 0s - 20ms/step - loss: 0.0084 - val_loss: 7.7081e-04
+10/10 - 0s - 26ms/step - loss: 0.0093
+10/10 - 0s - 22ms/step - loss: 0.0087
+10/10 - 0s - 17ms/step - loss: 0.0083
+10/10 - 0s - 15ms/step - loss: 0.0103
+9/9 - 0s - 19ms/step - loss: 0.0109 - val_loss: 9.4029e-04
+10/10 - 0s - 20ms/step - loss: 0.0138
+10/10 - 0s - 15ms/step - loss: 0.0088
+10/10 - 0s - 21ms/step - loss: 0.0090
+10/10 - 0s - 21ms/step - loss: 0.0081
+9/9 - 0s - 23ms/step - loss: 0.0107 - val_loss: 8.2904e-04
+10/10 - 0s - 16ms/step - loss: 0.0086
+10/10 - 0s - 18ms/step - loss: 0.0095
+10/10 - 0s - 19ms/step - loss: 0.0085
+10/10 - 0s - 30ms/step - loss: 0.0097
+9/9 - 0s - 24ms/step - loss: 0.0080 - val_loss: 0.0012
+10/10 - 0s - 21ms/step - loss: 0.0104
+10/10 - 0s - 18ms/step - loss: 0.0082
+10/10 - 0s - 19ms/step - loss: 0.0118
+10/10 - 0s - 15ms/step - loss: 0.0096
+9/9 - 0s - 21ms/step - loss: 0.0123 - val_loss: 8.9840e-04
+10/10 - 0s - 26ms/step - loss: 0.0082
+10/10 - 0s - 22ms/step - loss: 0.0094
+10/10 - 0s - 18ms/step - loss: 0.0081
+10/10 - 0s - 13ms/step - loss: 0.0086
+9/9 - 0s - 24ms/step - loss: 0.0090 - val_loss: 0.0011
+10/10 - 0s - 13ms/step - loss: 0.0094
+10/10 - 0s - 19ms/step - loss: 0.0103
+10/10 - 0s - 14ms/step - loss: 0.0097
+10/10 - 0s - 20ms/step - loss: 0.0096
+9/9 - 0s - 23ms/step - loss: 0.0095 - val_loss: 0.0012
+10/10 - 0s - 18ms/step - loss: 0.0090
+10/10 - 0s - 17ms/step - loss: 0.0092
+10/10 - 0s - 16ms/step - loss: 0.0098
+10/10 - 0s - 16ms/step - loss: 0.0083
+9/9 - 0s - 33ms/step - loss: 0.0092 - val_loss: 0.0011
+10/10 - 0s - 15ms/step - loss: 0.0099
+10/10 - 0s - 20ms/step - loss: 0.0086
+10/10 - 0s - 25ms/step - loss: 0.0108
+10/10 - 0s - 20ms/step - loss: 0.0101
+9/9 - 0s - 30ms/step - loss: 0.0105 - val_loss: 8.4032e-04
+10/10 - 0s - 18ms/step - loss: 0.0102
+10/10 - 0s - 29ms/step - loss: 0.0088
+10/10 - 0s - 22ms/step - loss: 0.0120
+10/10 - 0s - 17ms/step - loss: 0.0085
+9/9 - 0s - 32ms/step - loss: 0.0115 - val_loss: 9.4912e-04
+10/10 - 0s - 24ms/step - loss: 0.0085
+10/10 - 0s - 14ms/step - loss: 0.0097
+10/10 - 0s - 21ms/step - loss: 0.0093
+10/10 - 0s - 22ms/step - loss: 0.0088
+9/9 - 0s - 33ms/step - loss: 0.0078 - val_loss: 0.0013
+10/10 - 0s - 17ms/step - loss: 0.0088
+10/10 - 0s - 18ms/step - loss: 0.0087
+10/10 - 0s - 9ms/step - loss: 0.0100
+10/10 - 0s - 19ms/step - loss: 0.0098
+9/9 - 0s - 21ms/step - loss: 0.0099 - val_loss: 0.0028
+10/10 - 0s - 17ms/step - loss: 0.0086
+10/10 - 0s - 17ms/step - loss: 0.0100
+10/10 - 0s - 16ms/step - loss: 0.0104
+10/10 - 0s - 11ms/step - loss: 0.0084
+9/9 - 0s - 26ms/step - loss: 0.0071 - val_loss: 9.7919e-04
+10/10 - 0s - 17ms/step - loss: 0.0087
+10/10 - 0s - 26ms/step - loss: 0.0069
+10/10 - 0s - 21ms/step - loss: 0.0083
+10/10 - 0s - 16ms/step - loss: 0.0100
+9/9 - 0s - 51ms/step - loss: 0.0105 - val_loss: 6.8504e-04
+10/10 - 0s - 19ms/step - loss: 0.0094
+10/10 - 0s - 14ms/step - loss: 0.0095
+10/10 - 0s - 26ms/step - loss: 0.0094
+10/10 - 0s - 12ms/step - loss: 0.0080
+9/9 - 0s - 24ms/step - loss: 0.0082 - val_loss: 6.8445e-04
+10/10 - 0s - 14ms/step - loss: 0.0078
+10/10 - 0s - 20ms/step - loss: 0.0101
+10/10 - 0s - 18ms/step - loss: 0.0085
+10/10 - 0s - 20ms/step - loss: 0.0081
+9/9 - 0s - 24ms/step - loss: 0.0108 - val_loss: 0.0011
+10/10 - 0s - 22ms/step - loss: 0.0085
+10/10 - 0s - 18ms/step - loss: 0.0111
+10/10 - 0s - 17ms/step - loss: 0.0098
+10/10 - 0s - 22ms/step - loss: 0.0099
+9/9 - 0s - 28ms/step - loss: 0.0102 - val_loss: 7.0430e-04
+10/10 - 0s - 20ms/step - loss: 0.0079
+10/10 - 0s - 19ms/step - loss: 0.0083
+10/10 - 0s - 25ms/step - loss: 0.0098
+10/10 - 0s - 19ms/step - loss: 0.0092
+9/9 - 0s - 29ms/step - loss: 0.0091 - val_loss: 0.0013
+10/10 - 0s - 22ms/step - loss: 0.0096
+10/10 - 0s - 27ms/step - loss: 0.0078
+10/10 - 0s - 17ms/step - loss: 0.0105
+10/10 - 0s - 17ms/step - loss: 0.0089
+9/9 - 0s - 29ms/step - loss: 0.0095 - val_loss: 0.0017
+10/10 - 0s - 19ms/step - loss: 0.0101
+10/10 - 0s - 20ms/step - loss: 0.0111
+10/10 - 0s - 33ms/step - loss: 0.0086
+10/10 - 0s - 16ms/step - loss: 0.0086
+9/9 - 0s - 27ms/step - loss: 0.0075 - val_loss: 8.4574e-04
+10/10 - 0s - 13ms/step - loss: 0.0090
+10/10 - 0s - 21ms/step - loss: 0.0097
+10/10 - 0s - 19ms/step - loss: 0.0074
+10/10 - 0s - 16ms/step - loss: 0.0088
+9/9 - 0s - 29ms/step - loss: 0.0091 - val_loss: 8.7714e-04
+10/10 - 0s - 19ms/step - loss: 0.0082
+10/10 - 0s - 27ms/step - loss: 0.0093
+10/10 - 0s - 17ms/step - loss: 0.0086
+10/10 - 0s - 14ms/step - loss: 0.0097
+9/9 - 0s - 28ms/step - loss: 0.0134 - val_loss: 9.0889e-04
+10/10 - 0s - 17ms/step - loss: 0.0107
+10/10 - 0s - 18ms/step - loss: 0.0084
+10/10 - 0s - 16ms/step - loss: 0.0086
+10/10 - 0s - 14ms/step - loss: 0.0059
+9/9 - 0s - 31ms/step - loss: 0.0078 - val_loss: 6.5703e-04
+10/10 - 0s - 16ms/step - loss: 0.0094
+10/10 - 0s - 15ms/step - loss: 0.0086
+10/10 - 0s - 24ms/step - loss: 0.0091
+10/10 - 0s - 25ms/step - loss: 0.0080
+9/9 - 0s - 23ms/step - loss: 0.0115 - val_loss: 7.6670e-04
+10/10 - 0s - 22ms/step - loss: 0.0096
+10/10 - 0s - 20ms/step - loss: 0.0077
+10/10 - 0s - 15ms/step - loss: 0.0093
+10/10 - 0s - 12ms/step - loss: 0.0089
+9/9 - 0s - 26ms/step - loss: 0.0088 - val_loss: 0.0013
+10/10 - 0s - 16ms/step - loss: 0.0091
+10/10 - 0s - 25ms/step - loss: 0.0085
+10/10 - 0s - 20ms/step - loss: 0.0087
+10/10 - 0s - 17ms/step - loss: 0.0102
+9/9 - 0s - 30ms/step - loss: 0.0111 - val_loss: 0.0022
+10/10 - 0s - 23ms/step - loss: 0.0099
+10/10 - 0s - 20ms/step - loss: 0.0089
+10/10 - 0s - 20ms/step - loss: 0.0104
+10/10 - 0s - 28ms/step - loss: 0.0085
+9/9 - 0s - 30ms/step - loss: 0.0084 - val_loss: 0.0017
+10/10 - 0s - 21ms/step - loss: 0.0078
+10/10 - 0s - 24ms/step - loss: 0.0104
+10/10 - 0s - 24ms/step - loss: 0.0078
+10/10 - 0s - 21ms/step - loss: 0.0090
+9/9 - 0s - 28ms/step - loss: 0.0110 - val_loss: 7.0204e-04
+10/10 - 0s - 22ms/step - loss: 0.0100
+10/10 - 0s - 22ms/step - loss: 0.0122
+10/10 - 0s - 21ms/step - loss: 0.0093
+10/10 - 0s - 14ms/step - loss: 0.0076
+9/9 - 0s - 32ms/step - loss: 0.0098 - val_loss: 6.5486e-04
+10/10 - 0s - 14ms/step - loss: 0.0082
+10/10 - 0s - 14ms/step - loss: 0.0084
+10/10 - 0s - 17ms/step - loss: 0.0102
+10/10 - 0s - 16ms/step - loss: 0.0115
+9/9 - 0s - 26ms/step - loss: 0.0079 - val_loss: 8.9648e-04
+10/10 - 0s - 22ms/step - loss: 0.0093
+10/10 - 0s - 30ms/step - loss: 0.0096
+10/10 - 0s - 20ms/step - loss: 0.0094
+10/10 - 0s - 20ms/step - loss: 0.0080
+9/9 - 0s - 28ms/step - loss: 0.0105 - val_loss: 0.0012
+10/10 - 0s - 33ms/step - loss: 0.0070
+10/10 - 0s - 16ms/step - loss: 0.0101
+10/10 - 0s - 28ms/step - loss: 0.0076
+10/10 - 0s - 17ms/step - loss: 0.0088
+9/9 - 0s - 30ms/step - loss: 0.0107 - val_loss: 6.4434e-04
+10/10 - 0s - 25ms/step - loss: 0.0081
+10/10 - 0s - 25ms/step - loss: 0.0095
+10/10 - 0s - 21ms/step - loss: 0.0096
+10/10 - 0s - 17ms/step - loss: 0.0086
+9/9 - 0s - 24ms/step - loss: 0.0094 - val_loss: 0.0017
+10/10 - 0s - 16ms/step - loss: 0.0096
+10/10 - 0s - 13ms/step - loss: 0.0110
+10/10 - 0s - 26ms/step - loss: 0.0102
+10/10 - 0s - 14ms/step - loss: 0.0076
+9/9 - 0s - 31ms/step - loss: 0.0084 - val_loss: 0.0013
+10/10 - 0s - 27ms/step - loss: 0.0085
+10/10 - 0s - 17ms/step - loss: 0.0085
+10/10 - 0s - 22ms/step - loss: 0.0080
+10/10 - 0s - 13ms/step - loss: 0.0087
+9/9 - 0s - 25ms/step - loss: 0.0096 - val_loss: 6.5380e-04
+10/10 - 0s - 20ms/step - loss: 0.0095
+10/10 - 0s - 16ms/step - loss: 0.0097
+10/10 - 0s - 18ms/step - loss: 0.0114
+10/10 - 0s - 14ms/step - loss: 0.0107
+9/9 - 0s - 25ms/step - loss: 0.0105 - val_loss: 0.0017
+10/10 - 0s - 18ms/step - loss: 0.0093
+10/10 - 0s - 17ms/step - loss: 0.0069
+10/10 - 0s - 19ms/step - loss: 0.0074
+10/10 - 0s - 27ms/step - loss: 0.0075
+9/9 - 0s - 29ms/step - loss: 0.0082 - val_loss: 6.6758e-04
+10/10 - 0s - 17ms/step - loss: 0.0107
+10/10 - 0s - 20ms/step - loss: 0.0078
+10/10 - 0s - 23ms/step - loss: 0.0067
+10/10 - 0s - 10ms/step - loss: 0.0091
+9/9 - 0s - 19ms/step - loss: 0.0086 - val_loss: 6.7830e-04
+10/10 - 0s - 16ms/step - loss: 0.0082
+10/10 - 0s - 19ms/step - loss: 0.0088
+10/10 - 0s - 18ms/step - loss: 0.0094
+10/10 - 0s - 18ms/step - loss: 0.0099
+9/9 - 0s - 18ms/step - loss: 0.0105 - val_loss: 0.0010
+10/10 - 0s - 12ms/step - loss: 0.0088
+10/10 - 0s - 20ms/step - loss: 0.0086
+10/10 - 0s - 19ms/step - loss: 0.0082
+10/10 - 0s - 13ms/step - loss: 0.0072
+9/9 - 0s - 28ms/step - loss: 0.0081 - val_loss: 5.8714e-04
+10/10 - 0s - 19ms/step - loss: 0.0079
+10/10 - 0s - 16ms/step - loss: 0.0084
+10/10 - 0s - 13ms/step - loss: 0.0085
+10/10 - 0s - 15ms/step - loss: 0.0066
+9/9 - 0s - 33ms/step - loss: 0.0080 - val_loss: 0.0011
+10/10 - 0s - 20ms/step - loss: 0.0087
+10/10 - 0s - 14ms/step - loss: 0.0085
+10/10 - 0s - 18ms/step - loss: 0.0082
+10/10 - 0s - 16ms/step - loss: 0.0095
+9/9 - 0s - 24ms/step - loss: 0.0089 - val_loss: 8.3766e-04
+10/10 - 0s - 23ms/step - loss: 0.0102
+10/10 - 0s - 25ms/step - loss: 0.0085
+10/10 - 0s - 25ms/step - loss: 0.0085
+10/10 - 0s - 15ms/step - loss: 0.0089
+9/9 - 0s - 31ms/step - loss: 0.0104 - val_loss: 6.4532e-04
+10/10 - 0s - 18ms/step - loss: 0.0069
+10/10 - 0s - 27ms/step - loss: 0.0095
+10/10 - 0s - 15ms/step - loss: 0.0086
+10/10 - 0s - 15ms/step - loss: 0.0088
+9/9 - 0s - 33ms/step - loss: 0.0092 - val_loss: 0.0018
+10/10 - 0s - 17ms/step - loss: 0.0091
+10/10 - 0s - 12ms/step - loss: 0.0079
+10/10 - 0s - 18ms/step - loss: 0.0098
+10/10 - 0s - 14ms/step - loss: 0.0091
+9/9 - 0s - 19ms/step - loss: 0.0084 - val_loss: 6.6761e-04
+10/10 - 0s - 14ms/step - loss: 0.0075
+10/10 - 0s - 17ms/step - loss: 0.0089
+10/10 - 0s - 15ms/step - loss: 0.0090
+10/10 - 0s - 10ms/step - loss: 0.0092
+9/9 - 0s - 25ms/step - loss: 0.0075 - val_loss: 0.0011
+10/10 - 0s - 15ms/step - loss: 0.0104
+10/10 - 0s - 20ms/step - loss: 0.0096
+10/10 - 0s - 17ms/step - loss: 0.0079
+10/10 - 0s - 24ms/step - loss: 0.0097
+9/9 - 0s - 25ms/step - loss: 0.0113 - val_loss: 7.3239e-04
+10/10 - 0s - 13ms/step - loss: 0.0086
+10/10 - 0s - 19ms/step - loss: 0.0078
+10/10 - 0s - 14ms/step - loss: 0.0093
+10/10 - 0s - 12ms/step - loss: 0.0076
+9/9 - 0s - 15ms/step - loss: 0.0116 - val_loss: 7.0510e-04
+10/10 - 0s - 28ms/step - loss: 0.0087
+10/10 - 0s - 21ms/step - loss: 0.0083
+10/10 - 0s - 21ms/step - loss: 0.0078
+10/10 - 0s - 21ms/step - loss: 0.0081
+9/9 - 0s - 32ms/step - loss: 0.0081 - val_loss: 7.0316e-04
+10/10 - 0s - 23ms/step - loss: 0.0079
+10/10 - 0s - 25ms/step - loss: 0.0084
+10/10 - 0s - 24ms/step - loss: 0.0087
+10/10 - 0s - 21ms/step - loss: 0.0081
+9/9 - 0s - 34ms/step - loss: 0.0090 - val_loss: 9.2211e-04
+10/10 - 0s - 17ms/step - loss: 0.0079
+10/10 - 0s - 28ms/step - loss: 0.0083
+10/10 - 0s - 20ms/step - loss: 0.0079
+10/10 - 0s - 19ms/step - loss: 0.0103
+9/9 - 0s - 27ms/step - loss: 0.0084 - val_loss: 6.8076e-04
+10/10 - 0s - 11ms/step - loss: 0.0069
+10/10 - 0s - 20ms/step - loss: 0.0118
+10/10 - 0s - 20ms/step - loss: 0.0091
+10/10 - 0s - 21ms/step - loss: 0.0103
+9/9 - 0s - 27ms/step - loss: 0.0091 - val_loss: 7.2126e-04
+10/10 - 0s - 25ms/step - loss: 0.0083
+10/10 - 0s - 26ms/step - loss: 0.0062
+10/10 - 0s - 24ms/step - loss: 0.0089
+10/10 - 0s - 16ms/step - loss: 0.0078
+9/9 - 0s - 27ms/step - loss: 0.0097 - val_loss: 0.0026
+10/10 - 0s - 21ms/step - loss: 0.0076
+10/10 - 0s - 20ms/step - loss: 0.0088
+10/10 - 0s - 19ms/step - loss: 0.0085
+10/10 - 0s - 20ms/step - loss: 0.0091
+9/9 - 0s - 31ms/step - loss: 0.0087 - val_loss: 6.0154e-04
+10/10 - 0s - 24ms/step - loss: 0.0080
+10/10 - 0s - 23ms/step - loss: 0.0069
+10/10 - 0s - 18ms/step - loss: 0.0091
+10/10 - 0s - 26ms/step - loss: 0.0071
+9/9 - 0s - 30ms/step - loss: 0.0088 - val_loss: 7.0438e-04
+10/10 - 0s - 28ms/step - loss: 0.0084
+10/10 - 0s - 20ms/step - loss: 0.0073
+10/10 - 0s - 14ms/step - loss: 0.0083
+10/10 - 0s - 22ms/step - loss: 0.0086
+9/9 - 0s - 26ms/step - loss: 0.0077 - val_loss: 0.0019
+10/10 - 0s - 21ms/step - loss: 0.0078
+10/10 - 0s - 26ms/step - loss: 0.0094
+10/10 - 0s - 21ms/step - loss: 0.0082
+10/10 - 0s - 26ms/step - loss: 0.0100
+9/9 - 0s - 31ms/step - loss: 0.0088 - val_loss: 6.6937e-04
+10/10 - 0s - 20ms/step - loss: 0.0096
+10/10 - 0s - 25ms/step - loss: 0.0091
+10/10 - 0s - 20ms/step - loss: 0.0083
+10/10 - 0s - 21ms/step - loss: 0.0117
+9/9 - 0s - 25ms/step - loss: 0.0101 - val_loss: 0.0018
+10/10 - 0s - 18ms/step - loss: 0.0087
+10/10 - 0s - 17ms/step - loss: 0.0092
+10/10 - 0s - 23ms/step - loss: 0.0082
+10/10 - 0s - 26ms/step - loss: 0.0084
+9/9 - 0s - 30ms/step - loss: 0.0075 - val_loss: 6.0071e-04
+10/10 - 0s - 22ms/step - loss: 0.0090
+10/10 - 0s - 29ms/step - loss: 0.0074
+10/10 - 0s - 28ms/step - loss: 0.0074
+10/10 - 0s - 22ms/step - loss: 0.0076
+9/9 - 0s - 33ms/step - loss: 0.0087 - val_loss: 0.0011
+10/10 - 0s - 22ms/step - loss: 0.0083
+10/10 - 0s - 21ms/step - loss: 0.0095
+10/10 - 0s - 36ms/step - loss: 0.0084
+10/10 - 0s - 20ms/step - loss: 0.0104
+9/9 - 0s - 31ms/step - loss: 0.0103 - val_loss: 0.0015
+10/10 - 0s - 24ms/step - loss: 0.0072
+10/10 - 0s - 27ms/step - loss: 0.0080
+10/10 - 0s - 19ms/step - loss: 0.0080
+10/10 - 0s - 20ms/step - loss: 0.0075
+9/9 - 0s - 28ms/step - loss: 0.0088 - val_loss: 7.1914e-04
+10/10 - 0s - 12ms/step - loss: 0.0085
+10/10 - 0s - 21ms/step - loss: 0.0075
+10/10 - 0s - 18ms/step - loss: 0.0066
+10/10 - 0s - 20ms/step - loss: 0.0068
+9/9 - 0s - 31ms/step - loss: 0.0076 - val_loss: 7.6735e-04
+10/10 - 0s - 27ms/step - loss: 0.0076
+10/10 - 0s - 19ms/step - loss: 0.0074
+10/10 - 0s - 22ms/step - loss: 0.0085
+10/10 - 0s - 25ms/step - loss: 0.0080
+9/9 - 0s - 35ms/step - loss: 0.0095 - val_loss: 0.0024
+10/10 - 0s - 22ms/step - loss: 0.0080
+10/10 - 0s - 23ms/step - loss: 0.0088
+10/10 - 0s - 19ms/step - loss: 0.0103
+10/10 - 0s - 17ms/step - loss: 0.0069
+9/9 - 0s - 35ms/step - loss: 0.0089 - val_loss: 6.1940e-04
+10/10 - 0s - 20ms/step - loss: 0.0072
+10/10 - 0s - 21ms/step - loss: 0.0086
+10/10 - 0s - 21ms/step - loss: 0.0072
+10/10 - 0s - 30ms/step - loss: 0.0087
+9/9 - 0s - 27ms/step - loss: 0.0075 - val_loss: 5.9782e-04
+10/10 - 0s - 12ms/step - loss: 0.0075
+10/10 - 0s - 26ms/step - loss: 0.0103
+10/10 - 0s - 32ms/step - loss: 0.0077
+10/10 - 0s - 21ms/step - loss: 0.0074
+9/9 - 0s - 35ms/step - loss: 0.0090 - val_loss: 7.1398e-04
+10/10 - 0s - 21ms/step - loss: 0.0083
+10/10 - 0s - 23ms/step - loss: 0.0066
+10/10 - 0s - 18ms/step - loss: 0.0068
+10/10 - 0s - 17ms/step - loss: 0.0090
+9/9 - 0s - 34ms/step - loss: 0.0076 - val_loss: 0.0014
+10/10 - 0s - 19ms/step - loss: 0.0085
+10/10 - 0s - 21ms/step - loss: 0.0072
+10/10 - 0s - 24ms/step - loss: 0.0070
+10/10 - 0s - 13ms/step - loss: 0.0069
+9/9 - 0s - 26ms/step - loss: 0.0075 - val_loss: 6.5114e-04
+10/10 - 0s - 20ms/step - loss: 0.0080
+10/10 - 0s - 14ms/step - loss: 0.0069
+10/10 - 0s - 22ms/step - loss: 0.0086
+10/10 - 0s - 18ms/step - loss: 0.0069
+9/9 - 0s - 25ms/step - loss: 0.0080 - val_loss: 7.4566e-04
+10/10 - 0s - 20ms/step - loss: 0.0084
+10/10 - 0s - 19ms/step - loss: 0.0069
+10/10 - 0s - 23ms/step - loss: 0.0091
+10/10 - 0s - 23ms/step - loss: 0.0095
+9/9 - 0s - 32ms/step - loss: 0.0109 - val_loss: 6.0709e-04
+10/10 - 0s - 21ms/step - loss: 0.0093
+10/10 - 0s - 22ms/step - loss: 0.0076
+10/10 - 0s - 26ms/step - loss: 0.0086
+10/10 - 0s - 21ms/step - loss: 0.0083
+9/9 - 0s - 46ms/step - loss: 0.0088 - val_loss: 0.0012
+10/10 - 0s - 20ms/step - loss: 0.0091
+10/10 - 0s - 19ms/step - loss: 0.0090
+10/10 - 0s - 16ms/step - loss: 0.0112
+10/10 - 0s - 20ms/step - loss: 0.0086
+9/9 - 0s - 30ms/step - loss: 0.0071 - val_loss: 6.4661e-04
+10/10 - 0s - 24ms/step - loss: 0.0079
+10/10 - 0s - 16ms/step - loss: 0.0092
+10/10 - 0s - 14ms/step - loss: 0.0078
+10/10 - 0s - 18ms/step - loss: 0.0073
+9/9 - 0s - 39ms/step - loss: 0.0080 - val_loss: 0.0019
+10/10 - 0s - 32ms/step - loss: 0.0096
+10/10 - 0s - 25ms/step - loss: 0.0075
+10/10 - 0s - 24ms/step - loss: 0.0072
+10/10 - 0s - 22ms/step - loss: 0.0084
+9/9 - 0s - 34ms/step - loss: 0.0072 - val_loss: 6.5526e-04
+10/10 - 0s - 20ms/step - loss: 0.0086
+10/10 - 0s - 24ms/step - loss: 0.0083
+10/10 - 0s - 16ms/step - loss: 0.0089
+10/10 - 0s - 20ms/step - loss: 0.0084
+9/9 - 0s - 26ms/step - loss: 0.0080 - val_loss: 0.0011
+10/10 - 0s - 16ms/step - loss: 0.0071
+10/10 - 0s - 23ms/step - loss: 0.0092
+10/10 - 0s - 17ms/step - loss: 0.0086
+10/10 - 0s - 23ms/step - loss: 0.0079
+9/9 - 0s - 25ms/step - loss: 0.0084 - val_loss: 8.7571e-04
+10/10 - 0s - 16ms/step - loss: 0.0076
+10/10 - 0s - 18ms/step - loss: 0.0070
+10/10 - 0s - 18ms/step - loss: 0.0064
+10/10 - 0s - 10ms/step - loss: 0.0076
+9/9 - 0s - 28ms/step - loss: 0.0082 - val_loss: 0.0022
+10/10 - 0s - 15ms/step - loss: 0.0077
+10/10 - 0s - 18ms/step - loss: 0.0070
+10/10 - 0s - 15ms/step - loss: 0.0079
+10/10 - 0s - 18ms/step - loss: 0.0082
+9/9 - 0s - 30ms/step - loss: 0.0080 - val_loss: 0.0016
+10/10 - 0s - 14ms/step - loss: 0.0088
+10/10 - 0s - 18ms/step - loss: 0.0087
+10/10 - 0s - 17ms/step - loss: 0.0083
+10/10 - 0s - 16ms/step - loss: 0.0070
+9/9 - 0s - 26ms/step - loss: 0.0089 - val_loss: 5.9541e-04
+10/10 - 0s - 23ms/step - loss: 0.0090
+10/10 - 0s - 20ms/step - loss: 0.0077
+10/10 - 0s - 27ms/step - loss: 0.0097
+10/10 - 0s - 19ms/step - loss: 0.0085
+9/9 - 0s - 30ms/step - loss: 0.0079 - val_loss: 5.9466e-04
+10/10 - 0s - 14ms/step - loss: 0.0070
+10/10 - 0s - 16ms/step - loss: 0.0067
+10/10 - 0s - 21ms/step - loss: 0.0086
+10/10 - 0s - 16ms/step - loss: 0.0070
+9/9 - 0s - 31ms/step - loss: 0.0082 - val_loss: 0.0013
+10/10 - 0s - 15ms/step - loss: 0.0084
+10/10 - 0s - 19ms/step - loss: 0.0067
+10/10 - 0s - 25ms/step - loss: 0.0074
+10/10 - 0s - 23ms/step - loss: 0.0068
+9/9 - 0s - 33ms/step - loss: 0.0088 - val_loss: 6.2386e-04
+10/10 - 0s - 21ms/step - loss: 0.0085
+10/10 - 0s - 24ms/step - loss: 0.0075
+10/10 - 0s - 19ms/step - loss: 0.0089
+10/10 - 0s - 19ms/step - loss: 0.0089
+9/9 - 0s - 33ms/step - loss: 0.0090 - val_loss: 8.0502e-04
+10/10 - 0s - 19ms/step - loss: 0.0093
+10/10 - 0s - 17ms/step - loss: 0.0089
+10/10 - 0s - 23ms/step - loss: 0.0063
+10/10 - 0s - 22ms/step - loss: 0.0090
+9/9 - 0s - 31ms/step - loss: 0.0077 - val_loss: 0.0010
+10/10 - 0s - 26ms/step - loss: 0.0071
+10/10 - 0s - 20ms/step - loss: 0.0056
+10/10 - 0s - 18ms/step - loss: 0.0071
+10/10 - 0s - 18ms/step - loss: 0.0072
+9/9 - 0s - 29ms/step - loss: 0.0077 - val_loss: 7.1807e-04
+10/10 - 0s - 16ms/step - loss: 0.0094
+10/10 - 0s - 21ms/step - loss: 0.0070
+10/10 - 0s - 15ms/step - loss: 0.0069
+10/10 - 0s - 17ms/step - loss: 0.0084
+9/9 - 0s - 34ms/step - loss: 0.0068 - val_loss: 6.2080e-04
+10/10 - 0s - 19ms/step - loss: 0.0078
+10/10 - 0s - 18ms/step - loss: 0.0102
+10/10 - 0s - 13ms/step - loss: 0.0086
+10/10 - 0s - 17ms/step - loss: 0.0081
+9/9 - 0s - 39ms/step - loss: 0.0101 - val_loss: 0.0025
+10/10 - 0s - 15ms/step - loss: 0.0081
+10/10 - 0s - 10ms/step - loss: 0.0080
+10/10 - 0s - 17ms/step - loss: 0.0085
+10/10 - 0s - 18ms/step - loss: 0.0073
+9/9 - 0s - 29ms/step - loss: 0.0088 - val_loss: 0.0010
+10/10 - 0s - 19ms/step - loss: 0.0091
+10/10 - 0s - 22ms/step - loss: 0.0086
+10/10 - 0s - 17ms/step - loss: 0.0073
+10/10 - 0s - 15ms/step - loss: 0.0091
+9/9 - 0s - 26ms/step - loss: 0.0085 - val_loss: 9.7804e-04
+10/10 - 0s - 19ms/step - loss: 0.0077
+10/10 - 0s - 18ms/step - loss: 0.0083
+10/10 - 0s - 26ms/step - loss: 0.0084
+10/10 - 0s - 20ms/step - loss: 0.0101
+9/9 - 0s - 29ms/step - loss: 0.0082 - val_loss: 0.0016
+10/10 - 0s - 18ms/step - loss: 0.0075
+10/10 - 0s - 17ms/step - loss: 0.0080
+10/10 - 0s - 20ms/step - loss: 0.0075
+10/10 - 0s - 23ms/step - loss: 0.0094
+9/9 - 0s - 27ms/step - loss: 0.0067 - val_loss: 5.8084e-04
+10/10 - 0s - 22ms/step - loss: 0.0081
+10/10 - 0s - 20ms/step - loss: 0.0071
+10/10 - 0s - 25ms/step - loss: 0.0080
+10/10 - 0s - 18ms/step - loss: 0.0072
+9/9 - 0s - 27ms/step - loss: 0.0087 - val_loss: 0.0011
+10/10 - 0s - 23ms/step - loss: 0.0071
+10/10 - 0s - 14ms/step - loss: 0.0065
+10/10 - 0s - 14ms/step - loss: 0.0095
+10/10 - 0s - 17ms/step - loss: 0.0084
+9/9 - 0s - 32ms/step - loss: 0.0090 - val_loss: 8.5581e-04
+10/10 - 0s - 16ms/step - loss: 0.0082
+10/10 - 0s - 23ms/step - loss: 0.0084
+10/10 - 0s - 25ms/step - loss: 0.0077
+10/10 - 0s - 23ms/step - loss: 0.0082
+9/9 - 0s - 33ms/step - loss: 0.0074 - val_loss: 0.0014
+10/10 - 0s - 18ms/step - loss: 0.0081
+10/10 - 0s - 19ms/step - loss: 0.0077
+10/10 - 0s - 18ms/step - loss: 0.0078
+10/10 - 0s - 20ms/step - loss: 0.0083
+9/9 - 0s - 28ms/step - loss: 0.0080 - val_loss: 7.5012e-04
+10/10 - 0s - 16ms/step - loss: 0.0072
+10/10 - 0s - 23ms/step - loss: 0.0076
+10/10 - 0s - 22ms/step - loss: 0.0090
+10/10 - 0s - 16ms/step - loss: 0.0069
+9/9 - 0s - 34ms/step - loss: 0.0067 - val_loss: 6.2712e-04
+10/10 - 0s - 17ms/step - loss: 0.0071
+10/10 - 0s - 16ms/step - loss: 0.0071
+10/10 - 0s - 23ms/step - loss: 0.0070
+10/10 - 0s - 22ms/step - loss: 0.0069
+9/9 - 0s - 42ms/step - loss: 0.0085 - val_loss: 6.2760e-04
+10/10 - 0s - 26ms/step - loss: 0.0069
+10/10 - 0s - 28ms/step - loss: 0.0065
+10/10 - 0s - 25ms/step - loss: 0.0067
+10/10 - 0s - 22ms/step - loss: 0.0074
+9/9 - 0s - 29ms/step - loss: 0.0089 - val_loss: 6.2384e-04
+10/10 - 0s - 23ms/step - loss: 0.0084
+10/10 - 0s - 27ms/step - loss: 0.0097
+10/10 - 0s - 18ms/step - loss: 0.0094
+10/10 - 0s - 16ms/step - loss: 0.0086
+9/9 - 0s - 39ms/step - loss: 0.0087 - val_loss: 0.0027
+10/10 - 0s - 26ms/step - loss: 0.0099
+10/10 - 0s - 14ms/step - loss: 0.0075
+10/10 - 0s - 18ms/step - loss: 0.0083
+10/10 - 0s - 21ms/step - loss: 0.0075
+9/9 - 0s - 35ms/step - loss: 0.0069 - val_loss: 6.7678e-04
+10/10 - 0s - 16ms/step - loss: 0.0061
+10/10 - 0s - 17ms/step - loss: 0.0081
+10/10 - 0s - 19ms/step - loss: 0.0078
+10/10 - 0s - 18ms/step - loss: 0.0086
+9/9 - 0s - 42ms/step - loss: 0.0075 - val_loss: 6.0267e-04
+10/10 - 0s - 22ms/step - loss: 0.0074
+10/10 - 0s - 14ms/step - loss: 0.0070
+10/10 - 0s - 17ms/step - loss: 0.0068
+10/10 - 0s - 17ms/step - loss: 0.0069
+9/9 - 0s - 29ms/step - loss: 0.0073 - val_loss: 0.0017
+10/10 - 0s - 24ms/step - loss: 0.0078
+10/10 - 0s - 19ms/step - loss: 0.0059
+10/10 - 0s - 23ms/step - loss: 0.0076
+10/10 - 0s - 16ms/step - loss: 0.0072
+9/9 - 0s - 27ms/step - loss: 0.0099 - val_loss: 5.7002e-04
+10/10 - 0s - 15ms/step - loss: 0.0076
+10/10 - 0s - 20ms/step - loss: 0.0083
+10/10 - 0s - 18ms/step - loss: 0.0056
+10/10 - 0s - 23ms/step - loss: 0.0064
+9/9 - 0s - 33ms/step - loss: 0.0078 - val_loss: 7.8631e-04
+10/10 - 0s - 25ms/step - loss: 0.0064
+10/10 - 0s - 25ms/step - loss: 0.0073
+10/10 - 0s - 21ms/step - loss: 0.0068
+10/10 - 0s - 20ms/step - loss: 0.0082
+9/9 - 0s - 44ms/step - loss: 0.0076 - val_loss: 5.9285e-04
+10/10 - 0s - 21ms/step - loss: 0.0071
+10/10 - 0s - 14ms/step - loss: 0.0072
+10/10 - 0s - 18ms/step - loss: 0.0074
+10/10 - 0s - 16ms/step - loss: 0.0063
+9/9 - 0s - 31ms/step - loss: 0.0074 - val_loss: 8.7067e-04
+10/10 - 0s - 20ms/step - loss: 0.0077
+10/10 - 0s - 19ms/step - loss: 0.0072
+10/10 - 0s - 19ms/step - loss: 0.0074
+10/10 - 0s - 15ms/step - loss: 0.0070
+9/9 - 0s - 22ms/step - loss: 0.0071 - val_loss: 6.9343e-04
+10/10 - 0s - 18ms/step - loss: 0.0059
+10/10 - 0s - 18ms/step - loss: 0.0081
+10/10 - 0s - 17ms/step - loss: 0.0079
+10/10 - 0s - 14ms/step - loss: 0.0074
+9/9 - 0s - 23ms/step - loss: 0.0103 - val_loss: 8.6246e-04
+10/10 - 0s - 20ms/step - loss: 0.0066
+10/10 - 0s - 13ms/step - loss: 0.0069
+10/10 - 0s - 23ms/step - loss: 0.0077
+10/10 - 0s - 12ms/step - loss: 0.0064
+9/9 - 0s - 24ms/step - loss: 0.0069 - val_loss: 8.2706e-04
+10/10 - 0s - 21ms/step - loss: 0.0073
+10/10 - 0s - 24ms/step - loss: 0.0058
+10/10 - 0s - 25ms/step - loss: 0.0082
+10/10 - 0s - 16ms/step - loss: 0.0079
+9/9 - 0s - 24ms/step - loss: 0.0088 - val_loss: 7.0143e-04
+10/10 - 0s - 18ms/step - loss: 0.0066
+10/10 - 0s - 17ms/step - loss: 0.0063
+10/10 - 0s - 22ms/step - loss: 0.0076
+10/10 - 0s - 20ms/step - loss: 0.0069
+9/9 - 0s - 24ms/step - loss: 0.0085 - val_loss: 6.3080e-04
+10/10 - 0s - 16ms/step - loss: 0.0067
+10/10 - 0s - 13ms/step - loss: 0.0083
+10/10 - 0s - 15ms/step - loss: 0.0071
+10/10 - 0s - 17ms/step - loss: 0.0074
+9/9 - 0s - 29ms/step - loss: 0.0079 - val_loss: 5.9592e-04
+10/10 - 0s - 18ms/step - loss: 0.0083
+10/10 - 0s - 14ms/step - loss: 0.0076
+10/10 - 0s - 16ms/step - loss: 0.0068
+10/10 - 0s - 15ms/step - loss: 0.0067
+9/9 - 0s - 44ms/step - loss: 0.0080 - val_loss: 7.3281e-04
+10/10 - 0s - 17ms/step - loss: 0.0081
+10/10 - 0s - 15ms/step - loss: 0.0082
+10/10 - 0s - 26ms/step - loss: 0.0072
+10/10 - 0s - 19ms/step - loss: 0.0069
+9/9 - 0s - 35ms/step - loss: 0.0067 - val_loss: 0.0011
+10/10 - 0s - 17ms/step - loss: 0.0069
+10/10 - 0s - 24ms/step - loss: 0.0073
+10/10 - 0s - 26ms/step - loss: 0.0063
+10/10 - 0s - 19ms/step - loss: 0.0077
+9/9 - 0s - 30ms/step - loss: 0.0066 - val_loss: 6.7477e-04
+10/10 - 0s - 16ms/step - loss: 0.0088
+10/10 - 0s - 13ms/step - loss: 0.0077
+10/10 - 0s - 15ms/step - loss: 0.0067
+10/10 - 0s - 25ms/step - loss: 0.0073
+9/9 - 0s - 34ms/step - loss: 0.0079 - val_loss: 7.7942e-04
+10/10 - 0s - 19ms/step - loss: 0.0069
+10/10 - 0s - 23ms/step - loss: 0.0067
+10/10 - 0s - 20ms/step - loss: 0.0090
+10/10 - 0s - 13ms/step - loss: 0.0072
+9/9 - 0s - 39ms/step - loss: 0.0093 - val_loss: 9.6281e-04
+10/10 - 0s - 26ms/step - loss: 0.0050
+10/10 - 0s - 22ms/step - loss: 0.0079
+10/10 - 0s - 14ms/step - loss: 0.0071
+10/10 - 0s - 16ms/step - loss: 0.0087
+9/9 - 0s - 26ms/step - loss: 0.0068 - val_loss: 0.0021
+[1m 1/40[0m [37m━━━━━━━━━━━━━━━━━━━━[0m [1m18s[0m 477ms/step[1m12/40[0m [32m━━━━━━[0m[37m━━━━━━━━━━━━━━[0m [1m0s[0m 5ms/step   [1m32/40[0m [32m━━━━━━━━━━━━━━━━[0m[37m━━━━[0m [1m0s[0m 3ms/step[1m40/40[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 9ms/step[1m40/40[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m1s[0m 9ms/step
+[1m 1/10[0m [32m━━[0m[37m━━━━━━━━━━━━━━━━━━[0m [1m0s[0m 72ms/step[1m10/10[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 3ms/step 
+Model: MPI_8_GRU
+Training Time: 381.89 seconds
+Final Training MSE: 0.0066
+Final Validation MSE: 0.0035
+Test MSE: 0.1037
