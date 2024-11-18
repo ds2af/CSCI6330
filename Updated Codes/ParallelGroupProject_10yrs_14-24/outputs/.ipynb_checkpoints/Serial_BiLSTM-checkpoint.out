@@ -1,0 +1,13 @@
+Input Shape: (2512, 15, 4)
+Output Shape: (2512, 1)
+Training Shape: (2009, 15, 4) (503, 15, 4)
+Testing Shape: (2009, 1) (503, 1)
+Epoch 1/1000
+113/113 - 3s - 26ms/step - loss: 0.0382 - val_loss: 0.0726
+Epoch 2/1000
+113/113 - 1s - 10ms/step - loss: 0.0157 - val_loss: 0.0553
+Epoch 3/1000
+113/113 - 1s - 10ms/step - loss: 0.0136 - val_loss: 0.0434
+Epoch 4/1000
+113/113 - 1s - 10ms/step - loss: 0.0128 - val_loss: 0.0502
+Epoch 5/1000

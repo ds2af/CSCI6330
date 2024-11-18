@@ -1,0 +1,5 @@
+MPI_2LSTM-GRULSTM.out:Training Time: 7603.82 seconds
+MPI_2_Hybrid.out:Training Time: 1210.56 seconds
+MPI_4_Hybrid.out:Training Time: 769.37 seconds
+MPI_8_Hybrid.out:Training Time: 487.87 seconds
+Serial_Hybrid.out:Training Time: 1723.82 seconds
