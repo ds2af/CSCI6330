@@ -11,5 +11,7 @@ To run the code in any of the subfolders, bash script files are available namely
 run.sh will run the entire set of models- GRU, LSM, BiLSTM and Hybrid in Series, Data Parallel and Model parallel approaches and plot results are saved in plots folder. Output files are saved in outputs folders.
 
 Individual setting can also be run in similar way as done in run.sh file.
+
 For example, to run GRU model in Dataparallel mode with 4 cores and save the output in MPI_4_GRU.out file, we can run the following command in terminal:
+
 mpirun -np 4 python3 TS_Prediction_DataParallel.py -m GRU > outputs/MPI_4_GRU.out
