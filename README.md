@@ -5,7 +5,7 @@ Training neural networks on large datasets often requires a lot of time and comp
 
 **Runnign the Code:**
 
-The Latest updated codes are in "Updated Codes" Folder. There are two subfolders for 10 years and 6 years data. Although Codes and approaches are the same, we have different folders just for ease of running.
+The Finalized updated codes are in "Final Codes" Folder. There are two subfolders for 10 years and 6 years data. Although Codes and approaches are the same, we have different folders just for ease of running.
 To run the code in any of the subfolders, bash script files are available namely run.sh.
 
 run.sh will run the entire set of models- GRU, LSM, BiLSTM and Hybrid in Series, Data Parallel and Model parallel approaches and plot results are saved in plots folder. Output files are saved in outputs folders.
