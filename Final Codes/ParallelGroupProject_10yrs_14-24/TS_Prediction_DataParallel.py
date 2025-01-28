@@ -18,6 +18,17 @@ from sklearn.metrics import mean_squared_error
 from models import model_GRU, model_LSTM, model_Hybrid, model_BiLSTM
 import time
 
+#configure gpus
+
+gpus = tf.config.list_physical_devices('GPU')
+if gpus:
+    for gpu in gpus:
+        try:
+            tf.config.experimental.set_memory_growth(gpu, True)
+        except RuntimeError as e:
+            print(e)
+
+
 # Initialize MPI
 comm = MPI.COMM_WORLD
 rank = comm.Get_rank()
